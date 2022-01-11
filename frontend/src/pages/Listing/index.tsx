@@ -1,8 +1,10 @@
+import Pagination from '../../components/Navbar/Pagination';
+import './styles.css'
 const Listing = () => {
     return (
         <>
-        Essa é a listagem
+        <Pagination />
         </>
-    );
+        );
 }
 export default Listing;
