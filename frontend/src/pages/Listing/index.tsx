@@ -34,13 +34,16 @@ const Listing = () => {
             });
     }, [pageNumber]);
 
+    const hndlePageChange = (newPageNumber: number) => { 
+        setPageNumber(newPageNumber);
+    }
     return (
         <>
 
-            <Pagination />
+            <Pagination page={page} onChange={hndlePageChange} />
             <div className="container">
                 <div className="row">
-                    {page.content.map(movie => 
+                    {page.content.map(movie =>
                     (
                         <div key={movie.id} className="col-sm-6 col-lg-4 col-xl-3 mb-3">
                             <MovieCard movie={movie} />
