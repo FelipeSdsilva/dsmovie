@@ -16,6 +16,8 @@ ________________________________________________________________________________
 # Prévia do projeto
 
 ### Imagens para Desktop
+![image](https://user-images.githubusercontent.com/47900701/214619856-1381c57a-3936-457e-85d5-14c32cb23041.png)
+![image](https://user-images.githubusercontent.com/47900701/214620198-2cdbe186-1200-4011-85f9-9803770837ef.png)
 
 ________________________________________________________________________________________________________________________
 ### Imagens para Celular(Mobile)
@@ -98,14 +100,16 @@ Where has one formulary need to insert valid e-mail and your dedication and love
 
 ### Deploy Backend (Railway) https://dsmovie-production-dbc3.up.railway.app/movies
 ________________________________________________________________________________________________________________________
-## Frontend preview image
+## Frontend preview images
 
 ### Desktop images
-
+![image](https://user-images.githubusercontent.com/47900701/214619856-1381c57a-3936-457e-85d5-14c32cb23041.png)
+![image](https://user-images.githubusercontent.com/47900701/214620198-2cdbe186-1200-4011-85f9-9803770837ef.png)
 ________________________________________________________________________________________________________________________
 ### Mobile images
 
-
+![image](https://user-images.githubusercontent.com/47900701/214620675-98178fc8-5532-4e7e-8a75-09c8702bdb88.png)
+![image](https://user-images.githubusercontent.com/47900701/214620871-46798874-a0e4-4363-adb1-9dda61c960be.png)
 ________________________________________________________________________________________________________________________
 # Tech use in Backend
 
