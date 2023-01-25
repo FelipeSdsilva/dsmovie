@@ -1,5 +1,5 @@
 
-# Movies Avaliations (ENG) 
+# Movies Avaliations
 
 This project consisting in every person can avaliantion your favorites movies with stars who go to 1 at the 5.
 Where has one formulary need to insert valid e-mail and your dedication and love for watch movies.
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 ## How execute the project
 
-### Back-End
+### Backend
 
 Prerequisite: Java 17.
 ```bash
@@ -86,4 +86,3 @@ yarn start
 ________________________________________________________________________________________________________________________
 Author https://www.linkedin.com/in/felipesdsilva/
 
-<div align="center"><a href="#top">Climb up or Go home</a> </div>
