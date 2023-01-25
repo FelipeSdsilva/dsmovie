@@ -26,33 +26,33 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 # Tecnologias usadas no Backend
 
-[x] - Java 17
+- Java 17
 
-[x] - Spring Boot
+- Spring Boot
 
-[x] - Maven
+- Maven
 
-[x] - JPA
+- JPA
 
-[x] - H2(Uso para testes)
+- H2(Uso para testes)
 
-[x] - PostgreSQL Dev
+- PostgreSQL Dev
 ________________________________________________________________________________________________________________________
 # Tecnologias usadas no Frontend
 
-[x] - React
+- React
 
-[x] - TypeScript
+- TypeScript
 
-[x] - Axios
+- Axios
 
-[x] - Yarn
+- Yarn
 
-[x] - Bootstrap
+- Bootstrap
 
-[x] - HTML
+- HTML
 
-[x] - CSS
+- CSS
 ________________________________________________________________________________________________________________________
 # Como rodar localmente na sua maquina
 
@@ -114,34 +114,34 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 # Tech use in Backend
 
-[x] - Java 17
+- Java 17
 
-[x] - Spring Boot
+- Spring Boot
 
-[x] - Maven
+- Maven
 
-[x] - JPA
+- JPA
  
-[x] - H2(TESTS USING)
+- H2(TESTS USING)
 
-[x] - PostgreSQL Dev
+- PostgreSQL Dev
 
 ________________________________________________________________________________________________________________________
 # Tech use in Frontend
 
-[x] - React
+- React
 
-[x] - TypeScript
+- TypeScript
 
-[x] - Axios
+- Axios
 
-[x] - Yarn
+- Yarn
 
-[x] - Bootstrap
+- Bootstrap
 
-[x] - HTML
+- HTML
 
-[x] - CSS
+- CSS
 
 ________________________________________________________________________________________________________________________
 ## How execute the project
