@@ -1,1 +1,1 @@
-export const BASE_URL = "https://dsmovie-production-dbc3.up.railway.app" : "http://localhost:8080";
+export const BASE_URL = "https://dsmovie-production-3a00.up.railway.app" : "http://localhost:8080";
